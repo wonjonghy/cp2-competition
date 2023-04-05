@@ -2,8 +2,7 @@
 나머지는 rs,rd를 적용하여 증강했음. (aug_rs_rd.ipynb 참고)
 
 - aug_rs_rd.ipynb: 수정 중
-- baseline_each: 증강 전후 비교용
 
-- df_aug: 수정 중
+- df_aug.csv: 수정 중
 
 - requirements.txt: pip install -r requirements.txt
