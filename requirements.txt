@@ -1,7 +1,1 @@
 spacy==3.5.1
-transformers==4.27.4
-datasets==2.11.0
-sentencepiece==0.1.97
-scikit-learn
-torch==2.0.0
-huggingface-hub
